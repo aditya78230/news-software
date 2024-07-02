@@ -1,4 +1,4 @@
-# News Using Flutter
+# News Software
 
 Welcome to the repository for the **News Using Flutter** project. This application aims to revolutionize the way users consume news by leveraging the powerful capabilities of Flutter. The app provides a seamless, engaging, and personalized news experience across multiple platforms.
 
