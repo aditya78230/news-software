@@ -53,8 +53,8 @@ The development of this news application is motivated by the need to enhance the
 
 ## Preview
 
-![App Preview 1](output.gif)
-![App Preview 2](output1.gif)
+![App Preview 1](News-app-using-flutter-main/output.gif)
+![App Preview 2](News-app-using-flutter-main/output1.gif)
 
 ## License
 
